@@ -5,15 +5,15 @@
 
 ## Sign up for a Pexels Key
 
-https://www.pexels.com/api/new/
+[Sign up here](https://www.pexels.com/api/new/)
 
 ## Finished Image Gallery Repo
 
-https://github.com/jamesctucker/pexels-clone
+[Project Repo](https://github.com/jamesctucker/pexels-clone)
 
 ## Slides
 
-https://docs.google.com/presentation/d/1Umfk6iBvZ420xgzXG_PTRMIqI0POc_t7X7vVB-YoX7w/edit#slide=id.g9172c83391_0_96
+[Google Slides](https://docs.google.com/presentation/d/1Umfk6iBvZ420xgzXG_PTRMIqI0POc_t7X7vVB-YoX7w/edit#slide=id.g9172c83391_0_96)
 
 ## Vue Ecosystem Docs
 
