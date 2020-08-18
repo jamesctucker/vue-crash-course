@@ -1,6 +1,7 @@
 # Vue Crash Course
 
 **Date**: August 19, 2020
+
 **Where**: Prime Digital Academy
 
 ## Sign up for a Pexels Key
@@ -21,6 +22,7 @@
 - [Vuex](https://vuex.vuejs.org/): state management library for Vue.js
 - [Vue Router](https://router.vuejs.org/): official Vue router for building Single Page Apps (SPAs)
 - [Vue CLI](https://cli.vuejs.org/): a rich system for quickly scaffolding Vue projects; eliminates the need to spend a lot of time on setting up configurations
+- [Vue DevTools](https://github.com/vuejs/vue-devtools#vue-devtools)
 
 ## Great Vue Tutorials
 
